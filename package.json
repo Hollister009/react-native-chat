@@ -1,0 +1,11 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": ["react", "react-native" ,"react-native-web"],
+  "author": "Andrew Zhukevych",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
